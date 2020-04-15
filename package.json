@@ -1,7 +1,8 @@
 {
-  "name": "utsweb-16123",
+  "name": "utsweb-15111",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage" : "https://khairunnisa24.github.io/15111-Khairunnisa_UTS_WEB3B",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -16,6 +17,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
