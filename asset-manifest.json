@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/15111-Khairunnisa_UTS_WEB3B/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/15111-Khairunnisa_UTS_WEB3B/static/js/main.3b21dae4.chunk.js",
+    "main.js.map": "/15111-Khairunnisa_UTS_WEB3B/static/js/main.3b21dae4.chunk.js.map",
+    "runtime-main.js": "/15111-Khairunnisa_UTS_WEB3B/static/js/runtime-main.4f29bcd3.js",
+    "runtime-main.js.map": "/15111-Khairunnisa_UTS_WEB3B/static/js/runtime-main.4f29bcd3.js.map",
+    "static/css/2.69121389.chunk.css": "/15111-Khairunnisa_UTS_WEB3B/static/css/2.69121389.chunk.css",
+    "static/js/2.49fd3eb9.chunk.js": "/15111-Khairunnisa_UTS_WEB3B/static/js/2.49fd3eb9.chunk.js",
+    "static/js/2.49fd3eb9.chunk.js.map": "/15111-Khairunnisa_UTS_WEB3B/static/js/2.49fd3eb9.chunk.js.map",
+    "index.html": "/15111-Khairunnisa_UTS_WEB3B/index.html",
+    "precache-manifest.dfa7faec0c1be4f7439baf973d616de9.js": "/15111-Khairunnisa_UTS_WEB3B/precache-manifest.dfa7faec0c1be4f7439baf973d616de9.js",
+    "service-worker.js": "/15111-Khairunnisa_UTS_WEB3B/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/15111-Khairunnisa_UTS_WEB3B/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/15111-Khairunnisa_UTS_WEB3B/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.49fd3eb9.chunk.js.LICENSE.txt": "/15111-Khairunnisa_UTS_WEB3B/static/js/2.49fd3eb9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f29bcd3.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.49fd3eb9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3b21dae4.chunk.js"
+  ]
+}
